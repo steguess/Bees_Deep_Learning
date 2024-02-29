@@ -1,4 +1,4 @@
-![Example Image](Honey Bees.jpeg)
+![Example Image](Honey_Bees.png)
 
 # Naïve Bees: Deep Learning with Images 🐝
 
